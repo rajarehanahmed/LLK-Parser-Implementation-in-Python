@@ -1,0 +1,5 @@
+E=TL
+L=+TF|~
+T=FU
+U=*F|~
+F=(E)|n
